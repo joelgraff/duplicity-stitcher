@@ -3,6 +3,7 @@
 # Website: http://blog.atoaudiovisual.com
 # Usage instructions http://blog.atoav.com/2013/09/restore-broken-deja-dup-backup-hand/
 # Modified by Antonio Roberts to preserve folder structure
+# Modified by Joel Graff to run with python3
 
 import tkinter as tk
 from tkinter.filedialog import *
